@@ -1,0 +1,27 @@
+Descrição do Cargo
+
+A missão do Analista de Qualidade Pleno não se restringe apenas a encontrar defeitos, mas a evangelizar a cultura de qualidade em toda a empresa. Procuramos um profissional que atue como um verdadeiro parceiro estratégico e comunicador, garantindo a excelência do produto em todas as etapas do ciclo de vida do software. Você será responsável por ir além da execução de testes, atuando como um analista e estrategista, antecipando riscos, planejando cenários de teste complexos e negociando prioridades para garantir a entrega de valor contínuo. 
+
+
+Como será o seu dia a dia:
+
+Execução de Testes: Realizar testes funcionais, de regressão, de integração, de usabilidade e exploratórios, tanto em interfaces web quanto mobile.
+Automação de Testes: Desenvolver e manter scripts de automação de testes (E2E, API), contribuindo para a eficiência e agilidade dos ciclos de validação.
+Gestão de Defeitos: Documentar, rastrear e gerenciar defeitos (bugs) utilizando ferramenta de gestão, garantindo a comunicação clara e eficaz com o time de desenvolvimento.
+Planejamento de Testes: Participar da elaboração de planos de teste, escrever cenários de teste e casos de teste detalhados, alinhados aos requisitos do projeto e coerentes ao contexto do momento atual.
+Colaboração com a Equipe: Trabalhar em estreita colaboração com desenvolvedores, gerentes de produto e designers para garantir a qualidade contínua.
+Melhoria Contínua: Propor e implementar melhorias nos processos de qualidade, ferramentas e metodologias, atuando como um agente de mudança.
+Compartilhamento de Conhecimento: Contribuir ativamente para a comunidade de QA da empresa, oferecendo suporte e mentorando membros menos experientes.
+Precisamos que você tenha:
+
+Experiência prévia como Analista de Qualidade (QA), com atuação em testes manuais e/ou automatizados.
+Aplicado estratégias, práticas, abordagens e heurísticas de testes durante sua experiência como QA.
+Conhecimento e experiência em testes de APIs, utilizando ferramentas como Postman, Insomnia ou similares.
+Experiência no desenvolvimento e manutenção de testes automatizados com frameworks como Robot, Playwright, Appium, Selenium, ou outra ferramenta de automação.
+Conhecimento em Git e controle de versão.
+Conhecimento intermediário de SQL para manipulação e consulta de dados.
+Familiaridade com metodologias ágeis (Scrum, Kanban) e ferramentas de gestão como Jira e Confluence.
+
+Disponibilidade e Localidade:
+Horário: Período integral, das 9h às 18h (horário de Brasília).
+Localidade: A vaga é 100% remota. 
